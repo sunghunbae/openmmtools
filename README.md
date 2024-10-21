@@ -5,6 +5,10 @@
 [![Zenodo DOI Badge](https://zenodo.org/badge/25416166.svg)](https://zenodo.org/badge/latestdoi/25416166)
 [![codecov](https://codecov.io/gh/choderalab/openmmtools/branch/main/graph/badge.svg?token=aGwEahm2CY)](https://codecov.io/gh/choderalab/openmmtools)
 
+## PyPI
+
+Minor modifications were maded for The Python Package Index (PyPI) packaging of openmmtools
+
 ## OpenMMTools
 
 A batteries-included toolkit for the GPU-accelerated OpenMM molecular simulation engine.
