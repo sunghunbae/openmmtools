@@ -39,7 +39,7 @@ from numba import njit
 
 from openmmtools import multistate, utils
 from openmmtools.multistate.multistateanalyzer import MultiStateSamplerAnalyzer
-import mpiplus
+from openmmtools import mpiplus
 
 
 logger = logging.getLogger(__name__)

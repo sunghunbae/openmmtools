@@ -46,7 +46,7 @@ except ImportError:  # OpenMM < 7.6
     from simtk import unit, openmm
 
 from openmmtools import multistate, utils, states, mcmc, cache
-import mpiplus
+from openmmtools import mpiplus
 from openmmtools.multistate.utils import SimulationNaNError
 from openmmtools.multistate.pymbar import ParameterError
 

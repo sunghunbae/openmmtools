@@ -30,7 +30,7 @@ from scipy.special import logsumexp
 from openmmtools import multistate
 from openmmtools import utils
 from openmmtools.multistate.multistateanalyzer import MultiStateSamplerAnalyzer
-import mpiplus
+from openmmtools import mpiplus
 
 
 logger = logging.getLogger(__name__)
