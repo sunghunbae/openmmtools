@@ -5,7 +5,6 @@ if __name__ == '__main__':
             'openmm>=8',
             'mdtraj',
             'netCDF4',
-            'mpi4py',
             'pymbar',
             'jax',
             'numba',
