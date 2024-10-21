@@ -7,6 +7,7 @@ if __name__ == '__main__':
             'netCDF4',
             'pymbar',
             'jax',
+            'pyyaml',
             'numba',
             'scipy',
             'numpy<=1.25',
